@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-  title = 'Angular2 App Works!';
+  title = "I'm in the app component";
   name = '';
 }
