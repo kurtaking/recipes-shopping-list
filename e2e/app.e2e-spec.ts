@@ -1,6 +1,6 @@
 import { Angular4AppPage } from './app.po';
 
-describe('angular4-app App', () => {
+describe('recipe-shopping-list App', () => {
   let page: Angular4AppPage;
 
   beforeEach(() => {
